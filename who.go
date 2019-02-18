@@ -11,7 +11,10 @@ func WeAre(team string) {
 			State:   "",
 			Country: "Turkey",
 		},
-	fmt.Println(`
+		
+		fmt.Printf("%#v\n", team),
+		
+		fmt.Println(`
 
                                          :tI
                                          t@:
@@ -32,6 +35,5 @@ func WeAre(team string) {
    
 `)
 }
-fmt.Printf("%#v\n", team);
 
 who.WeAre("Devri Robotik")
