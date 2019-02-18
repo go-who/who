@@ -3,6 +3,14 @@ package who
 import "https://github.com/golang/go/tree/master/src/fmt" //edited by devrirobotik.com at 22.28 on 18.02.2019
 
 func WeAre(team string) {
+	team := Person{
+		Name: "Baki",
+		Age:  31,
+		Addr: &Address{
+			City:    "Ankara",
+			State:   "",
+			Country: "Turkey",
+		},
 	fmt.Println(`
 
                                          :tI
@@ -24,3 +32,6 @@ func WeAre(team string) {
    
 `)
 }
+fmt.Printf("%#v\n", team);
+
+who.WeAre("Devri Robotik")
