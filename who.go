@@ -2,7 +2,7 @@ package who
 
 import "fmt"
 
-func WeAre(team string) {
+func WeAre() {
 	fmt.Println(`
 
                                          :tI
