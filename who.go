@@ -5,7 +5,7 @@ import "fmt"
 func WeAre(team string) {
 	fmt.Println(`
 
-  Hadi Takım olalım ancak universite sınavına girmedim diye kazandıgım
+  Hadi Takım olalım ancak universite sınavına daha girmedim diye kazandıgım
   tecrubeleri, basarıları, kod yazma becerilerimi vb. gelistirmeye surekli olarak
   devam ettigim yetenekleri goz ardı etmeyin. Henuz bir muhendis olamasam bile mezun oldugum zaman sizin gozu
   kapalı ise alacagınız bir yazılım gelistirici olacagımı biliyorum. 19 yaşında henuz liseden yeni
