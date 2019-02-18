@@ -5,22 +5,14 @@ import "fmt"
 func WeAre(team string) {
 	fmt.Println(`
 
-                                         :tI
-                                         t@:
-                                        .@@
-      .1@@@@t.    :f@@@@:     :t@@@@t:  :@1    1@@.
-     f@@:  .@@: I@@:   f@t  I@@:   .f@t t@: .f@@.
-    1@t     t@I:@@    .f@1 f@:      I@t.@f:@@f.
-    @@:    .@@.1@@@@@@@f..@@.:@@@@@@@@::@@@f1@@@.
-   :@@     I@t @@.      I@t f@1    :@@ t@:    I@t
-   t@@1. .t@@. @@t.  .1@@:  @@1  .1@@..@t     t@I
-  .@@:t@@@t.    :f@@@@1.     :@@@@1.  :@:    .@@.
-  :@f
-  t@:
-  11.
+  Hadi Takım olalım ancak universite sınavına girmedim diye kazandıgım
+  tecrubeleri, basarıları, kod yazma becerilerimi vb. gelistirmeye surekli olarak
+  devam ettigim yetenekleri goz ardı etmeyin. Henuz bir muhendis olamasam bile mezun oldugum zaman sizin gozu
+  kapalı ise alacagınız bir yazılım gelistirici olacagımı biliyorum. 19 yaşında henuz liseden yeni
+  mezun olmusken İstanbul Buyuksehir Belediyesi ile bir yapay zeka projesi ortaklıgı yapmıs olmak 
+  yasadıgım basarıların sadece birisidir.
 
+  Ben size nereden ulasacagımı buldum, umarım sizler de beni ciddiye alıp bana ulaşırsınız :) 
 
-   https://peak.com/jobs
-   
 `)
 }
